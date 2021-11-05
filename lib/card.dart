@@ -94,7 +94,7 @@ class _OurCardState extends State<OurCard> {
                       Image.asset('images/marker.jpeg',
                           width: 23, height: 23),
                       const Text("not boss"),
-                      const SizedBox(width: 50),
+                      const SizedBox(width: 10),
                       const Icon(Icons.delete),
                     ],
                   ),
